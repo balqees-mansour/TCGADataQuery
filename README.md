@@ -10,7 +10,7 @@ Analysis Tools: Basic tools for exploring and visualizing the queried data.
 
 ## Installation
 To use the script, you will need to have R installed on your system along with the necessary packages. You can install the required packages using the following command in R:
-r
+
 install.packages(c("TCGAbiolinks", "dplyr", "ggplot2"))
 
 ## Usage
